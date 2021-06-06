@@ -1,0 +1,17 @@
+body {
+    font-family: system-ui;
+    background: #fff;
+    color: #000;
+    text-align: center;
+  }
+
+img{
+    width:600px;
+    height:300px;
+    float:left;
+}
+
+.welcome-text {
+    margin-top: 200px;
+    float:left;
+}
