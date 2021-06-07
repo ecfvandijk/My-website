@@ -23,6 +23,11 @@ img{
    
 }
 
+p{
+    font-family: 'Roboto', sans-serif !important;
+
+}
+
 .shadow {
     box-shadow: 4px 4px 4px #000; 
     height:200px;
