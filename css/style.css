@@ -23,6 +23,11 @@ img{
    
 }
 
+p{
+    font-family: 'Roboto', sans-serif !important;
+
+}
+
 .shadow {
     box-shadow: 4px 4px 4px #000; 
     height:200px;
@@ -44,8 +49,8 @@ p {
 }
 
 .my-name {
-    font-size: 40px
-    font-family:" Roboto", sans-serif;
+    font-size: 40px;
+    font-family: " Roboto", sans-serif;
 }
 
 .paragraph {
@@ -95,5 +100,10 @@ p {
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
+
+}
+
+.paragraph {
+
 
 }
