@@ -30,6 +30,7 @@ img{
 
 p {
     text-align: left;
+    font-family: 'Roboto', sans-serif;
 }
 
 .welcome-text {
@@ -44,12 +45,13 @@ p {
 }
 
 .my-name {
-    font-size: 40px
+    font-size: 40px;
     font-family:" Roboto", sans-serif;
 }
 
 .paragraph {
     margin-top: 20px;
+    padding: 0px 40px 0px 40px;
     font-size: 20px;
     border: 4px solid #ffb5a7;
     padding-left: 35px;
@@ -96,4 +98,8 @@ p {
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
 
+}
+
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
 }
