@@ -16,7 +16,7 @@ body {
     margin: 0px 0px 0px 0px;
   }
 
-img{
+.myself{
     width:600px;
     height:300px;
     margin-bottom: 20px;
@@ -107,4 +107,11 @@ p {
 
 .font-roboto {
     font-family: 'Roboto', sans-serif;
+}
+
+.flower{
+    width: 15%;
+    margin-bottom: 20px;
+    margin:
+
 }
