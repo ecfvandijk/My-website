@@ -20,6 +20,7 @@ body {
     width:600px;
     height:300px;
     margin-bottom: 20px;
+    box-shadow: 4px 4px 4px #000;
    
 }
 
@@ -110,8 +111,11 @@ p {
 }
 
 .flower{
-    width: 15%;
+    display:block;
+    width: 25%; 
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 20px;
-    margin:
+    box-shadow: 4px 4px 4px #000;
 
 }
